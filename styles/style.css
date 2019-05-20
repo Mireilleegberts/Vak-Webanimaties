@@ -1,0 +1,86 @@
+body {
+  background-color: #f2f0ed;
+  background-image : url(http://api.thumbr.it/whitenoise-361x370.png?background=ffffffff&noise=5c5c5c&density=13&opacity=25);
+}
+
+#nav svg {
+  width: 17%;
+}
+
+#menu {
+  display: inline-flex;
+  margin-left: 22%;
+}
+
+#menu ul li a {
+  font-family: 'Karla', sans-serif;
+  text-decoration: none;
+  color: black;
+  margin-left: 15px;
+
+}
+
+#menu ul{
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#bord {
+  position: absolute;;
+  width: 40%;
+  margin-left: 30%;
+  margin-top: 3%;
+}
+
+main h1{
+  font-family: 'Karla', sans-serif;
+  font-size: 5em;
+  position: absolute;
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  margin-top: 180px;
+}
+
+main section h2 {
+  font-family: 'Karla', sans-serif;
+  position: absolute;
+  margin-left: 47%;
+  margin-top: 120px;
+}
+
+main section p {
+  font-family: 'Karla', sans-serif;
+  position: absolute;
+  margin-left: 47%;
+  margin-top: 180px;
+  padding-right: 290px
+}
+
+button{
+position: absolute;
+font-family: 'Karla', sans-serif;
+font-size: 1em;
+margin-left: 47%;
+text-decoration: none;
+background: none;
+cursor: pointer;
+border: 1px solid black;
+padding: 10px;
+margin-top: 500px;
+ }
+
+ button:hover {
+  background-color: black;
+  color: white;
+ }
+
+ .drag {
+  position: absolute;
+  width: 200px;
+  margin-left: 10%;
+  margin-top: 10%;
+ }
+
+
