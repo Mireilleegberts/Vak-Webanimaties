@@ -22,7 +22,7 @@ Bronnen zijn afkomstig van de website's
 [Stack overflow](https://stackoverflow.com) <br>
 [Codepen](https://codepen.io) <br>
 
-Ook heb ik hulp van mede studenten:
+Ook heb ik hulp van mede studenten: <br>
 Anne-wil <br>
 Joop <br>
 Anne <br>
