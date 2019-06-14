@@ -1,6 +1,6 @@
 # Webanimatie Herkansing
 
-Dit is een opdracht waar wij als opdracht kregen om een kunstwerk om te zetten naar HTML & CSS waar gebruik wordt gemaak van web animaties.
+Dit is een opdracht waar wij als opdracht kregen om een kunstwerk om te zetten naar HTML & CSS waar gebruik wordt gemaakt van web animaties.
 
 ## kunstwerk
 Het kunstwerk is van [Musée d'Orsay](https://www.musee-orsay.fr/en/home.html) in Parijs is een kunstmuseum. 
@@ -15,7 +15,7 @@ Verschillende elementen bewegen. <br>
 
 ## Bronnen
 Ik heb veel bronnen gebruikt voor deze pagina.
-Bronnen zijn afkomstig van de website's 
+Bronnen zijn afkomstig van de website's <br>
 
 [W3 schools](https://www.w3schools.com) <br>
 [CSS tricks](https://css-tricks.com/) <br>
